@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Kumar Anand
 
-<!--
-**anand89526/anand89526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Full-Stack Developer
+- Interested in building real-world web applications
+- Always learning and improving my skills
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,mongodb,bootstrap,tailwind" />
+</p>
+
+## 💻 Tech Stack
+- C++
+- HTML, CSS, JavaScript
+- React
+- Node.js
+- MongoDB
+- Bootstrap
+- Tailwind CSS
+
+## 📊 GitHub Stats
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand89526&show_icons=true)
+
+## 📫 Connect with Me
+- GitHub: https://github.com/anand89526
